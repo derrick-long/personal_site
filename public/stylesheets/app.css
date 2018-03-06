@@ -9,8 +9,10 @@ body {
 
 img {
   float: left;
-  max-width: 20%;
-  max-height: 35%;
+  max-width: 300px;
+  max-height: 300px;
+  height: auto;
+  width: auto;
   border-radius: 50% ;
 }
 
